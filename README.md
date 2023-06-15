@@ -7,7 +7,7 @@ and **CSS**, And now I'm on the way to learn JavaScript(with Next.js).
 
 # Development Stack
 
-I use a combination of **PlanetScale** & **Passage** For the backend, And
+I use a combination of **PlanetScale** & **Prisma** & **Passage** For the backend, And
 **Next.js** & **Sanity.io** For the frontend.
 
 of corse i use more than those tools to ship my web applications, Those include
