@@ -15,3 +15,8 @@ but no limitied to **Tailwindcss** to ship my design faster and **Vercel** to sh
 my **Next.js** faster, And **GitHub** to store my source code, And **Git** to work
 with this same source code, And **Framer Motion** to have animation on my web apps,
 And **Lucide** to add all kind of icons to my websites.
+
+
+# Contact
+
+I will be happy to have a conversation with you over your discord server at https://discord.gg/79dPTHxzg4.
