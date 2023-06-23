@@ -19,4 +19,4 @@ And **Lucide** to add all kind of icons to my websites.
 
 # Contact
 
-I will be happy to have a conversation with you over your discord server at https://discord.gg/79dPTHxzg4.
+I will be happy to have a conversation with you over our discord server at https://discord.gg/79dPTHxzg4.
