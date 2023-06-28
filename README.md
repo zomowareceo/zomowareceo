@@ -25,4 +25,4 @@ as my journey continues i want to learn a lot of interesting new technologies li
 
 # Contact
 
-I will be happy to have a conversation with you over our **discord server** at https://discord.gg/79dPTHxzg4, or you can just intracte with me over **twitter** @zomowareceo.
+I will be happy to have a conversation with you over our **discord** server at https://discord.gg/79dPTHxzg4, or you can just intracte with me over **twitter** @zomowareceo.
