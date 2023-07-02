@@ -20,7 +20,7 @@ And **Lucide** to add all kind of icons to my websites.
 # Learnning
 
 as my journey continues i want to learn a lot of interesting new technologies like
-**PlanetScale** & **PolyScale** & **AWS** and a lot more technologies that i'm interested in.
+**PlanetScale** & **PolyScale** and a lot more technologies that i'm interested in.
 
 
 # Contact
