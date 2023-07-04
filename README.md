@@ -7,11 +7,11 @@ and **CSS**, And now I'm on the way to learn JavaScript(**with Next.js**).
 
 # Development Stack
 
-I use a combination of **Supabase** & **Authsignal** For the backend, And
-**Next.js** & **Sanity.io** For the frontend.
+I use a combination of **Supabase** For the backend, And
+**Next.js** & **Netlify CMS** For the frontend.
 
 of corse i use more than those tools to ship my web applications, Those include
-but no limitied to **Tailwindcss** to ship my design faster and **Vercel** to ship
+but no limitied to **Tailwindcss** to ship my design faster and **Netlify** to ship
 my **Next.js** faster, And **GitHub** to store my source code, And **Git** to work
 with this same source code, And **Framer Motion** to have animation on my web apps,
 And **Lucide** to add all kind of icons to my websites.
@@ -20,7 +20,7 @@ And **Lucide** to add all kind of icons to my websites.
 # Learnning
 
 as my journey continues i want to learn a lot of interesting new technologies like
-**PlanetScale** & **PolyScale** and a lot more technologies that i'm interested in.
+**PlanetScale** & **PolyScale** & **Flutter** and a lot more technologies that i'm interested in.
 
 
 # Contact
