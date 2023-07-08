@@ -2,13 +2,13 @@
 
 Hello, My name is **Ilyas Husain**, I'm the **Co-founder and CEO of zomoware.**,
 I have been a **web developer** since 2020, initialy started with just **HTML**
-and **CSS**, And now I'm on the way to learn JavaScript(**with Next.js**).
+and **CSS**, And now I'm on the way to learn JavaScript(**with Next.js / SvelteKit**).
 
 
 # Development Stack
 
 I use a combination of **Supabase** For the backend, And
-**Next.js** & **Netlify CMS** For the frontend.
+**Next.js** or **SvelteKit** & **Netlify CMS** For the frontend.
 
 of corse i use more than those tools to ship my web applications, Those include
 but no limitied to **Tailwindcss** to ship my design faster and **Netlify** to ship
