@@ -9,7 +9,7 @@ and **CSS**, And now I'm on the way to learn JavaScript alongside with
 # Development Stack
 
 I use a combination of **Supabase** For the backend, And
-**Next.js** or **SvelteKit** & **Netlify CMS** For the frontend.
+**Next.js** or **SvelteKit** or **Astro** & **Storyblok** For the frontend.
 
 of corse i use more than those tools to ship my web applications, Those include
 but no limitied to **Tailwindcss** to ship my design faster and **Netlify** to ship
