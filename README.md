@@ -1,12 +1,12 @@
 # zomowareceo
 
-Hello, My name is **Ilyas Husain**, I'm the **Co-founder and CEO of zomoware.**,
+hello, My name is **Ilyas Husain**, I'm the **Co-founder and CEO of zomoware.**,
 I have been a **web developer** since 2020, initialy started with just **HTML**
 and **CSS**, And now I'm on the way to learn JavaScript alongside with
 **Next.js** & **SvelteKit** & **Astro**.
 
 
-# Development Stack
+# development stack
 
 I use a combination of **Supabase** For the backend, And
 **Next.js** or **SvelteKit** or **Astro** & **Storyblok** For the frontend.
@@ -18,13 +18,13 @@ with this same source code, And **Framer Motion** to have animation on my web ap
 And **Lucide** to add all kind of icons to my websites.
 
 
-# Learnning
+# learnning
 
 as my journey continues i want to learn a lot of interesting new technologies like
 **PlanetScale** & **PolyScale** & **Flutter** and a lot more technologies that i'm interested in.
 
 
-# Contact
+# contact
 
 I will be happy to have a conversation with you over our **discord** server at https://discord.gg/79dPTHxzg4,
 i also have an **Instgram** / **Threads** account at the handle **@zomowareceo**.
