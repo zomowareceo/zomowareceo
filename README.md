@@ -32,5 +32,5 @@ as my journey continues i want to learn a lot of interesting new technologies li
 
 # contact
 
-I will be happy to have a conversation with you over our **discord** server at https://discord.gg/79dPTHxzg4,
-i also have an **Instgram** / **Threads** & **Mastodon** account at the handle **@zomowareceo**.
+I will be happy to have a conversation with you over zomoware **discord** server at https://discord.gg/79dPTHxzg4,
+i also have an **Instgram**, **Threads** and **Mastodon** accounts at the handle **@zomowareceo**.
