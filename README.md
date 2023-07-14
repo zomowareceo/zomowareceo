@@ -6,6 +6,12 @@ and **CSS**, And now I'm on the way to learn JavaScript alongside with
 **Next.js** & **SvelteKit** & **Astro**.
 
 
+# code of conduct
+
+all of my **public** & **privet** project are subjected to zomoware **code of conduct**
+found in https://zomoware.cloud/coc.
+
+
 # development stack
 
 I use a combination of **Supabase** For the backend, And
